@@ -10,16 +10,16 @@ This repository is devoted to the exploration and implementation of various **Na
 - #### Jupyter Notebook
 - #### scikit-learn
 - #### sklearn_crfsuite
+- #### numpy
+- #### gensim
 
 ## 🔧 Features
 
-The repository begins with the **Conditional Random Fields (CRF)** method for NER, demonstrating the efficiency and effectiveness of statistical models in NLP.
+The repository begins with the **Conditional Random Fields (CRF)**, **FastText** and **Random Forest** models for NER, demonstrating the efficiency and effectiveness of various machine learning methods in NLP.
 
 ## 🚀 Coming Soon
 
 Work is ongoing to include more sophisticated NER methods. Future updates will introduce these machine learning methods:
-
-- **Word2Vec**. A model for NLP that learns word associations from a large text corpus.
 
 - **LSTM (Long Short-Term Memory)**. A type of recurrent neural network capable of learning order dependencies in sequence prediction problems.
 
