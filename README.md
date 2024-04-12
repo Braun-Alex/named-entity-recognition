@@ -12,18 +12,15 @@ This repository is devoted to the exploration and implementation of various **Na
 - #### sklearn_crfsuite
 - #### numpy
 - #### gensim
+- #### TensorFlow
 
 ## 🔧 Features
 
-The repository begins with the **Conditional Random Fields (CRF)**, **FastText** and **Random Forest** models for NER, demonstrating the efficiency and effectiveness of various machine learning methods in NLP.
+The repository begins with the **Conditional Random Fields (CRF)**, **FastText**, **Random Forest** and **LSTM** models for NER, demonstrating the efficiency and effectiveness of various machine learning methods in NLP.
 
 ## 🚀 Coming Soon
 
-Work is ongoing to include more sophisticated NER methods. Future updates will introduce these machine learning methods:
-
-- **LSTM (Long Short-Term Memory)**. A type of recurrent neural network capable of learning order dependencies in sequence prediction problems.
-
-- **BERT (Bidirectional Encoder Representations from Transformers)**. A method for pre-training language representations showing significant promise across a range of NLP tasks, including NER.
+Work is ongoing to include more sophisticated NER method. Future update will introduce LSTM model using FastText embedding and CRF layers.
 
 ## 📄 License
 
