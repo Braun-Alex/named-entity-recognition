@@ -14,13 +14,9 @@ This repository is devoted to the exploration and implementation of various **Na
 - #### gensim
 - #### TensorFlow
 
-## 🔧 Features
+## 🚀 Features
 
-The repository begins with the **Conditional Random Fields (CRF)**, **FastText**, **Random Forest** and **LSTM** models for NER, demonstrating the efficiency and effectiveness of various machine learning methods in NLP.
-
-## 🚀 Coming Soon
-
-Work is ongoing to include more sophisticated NER method. Future update will introduce LSTM model using FastText embedding and CRF layers.
+The repository contains the **CRF**, **FastText**, **Random Forest**, **LSTM** and **CNN** models for NER, demonstrating the efficiency and effectiveness of various machine learning methods in NLP.
 
 ## 📄 License
 
